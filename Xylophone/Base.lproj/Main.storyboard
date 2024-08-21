@@ -32,11 +32,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="1K0-y4-wXT"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6gw-ss-7TT"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstItem="DFM-uT-A7s" firstAttribute="top" secondItem="Cwq-Gl-Ulr" secondAttribute="top" id="2O1-S1-kog"/>
                                             <constraint firstItem="DFM-uT-A7s" firstAttribute="leading" secondItem="Cwq-Gl-Ulr" secondAttribute="leading" constant="5" id="BwY-oB-ACN"/>
@@ -56,11 +56,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="eKC-dJ-SWe"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Uml-qW-mMA"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstItem="rHC-RX-B1m" firstAttribute="leading" secondItem="0TK-zm-so9" secondAttribute="leading" constant="10" id="7oZ-E2-mrw"/>
                                             <constraint firstItem="rHC-RX-B1m" firstAttribute="top" secondItem="0TK-zm-so9" secondAttribute="top" id="Ays-ox-Hbv"/>
@@ -80,11 +80,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="AOm-r2-BHS"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qf9-pN-pSw"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstAttribute="trailing" secondItem="17i-mB-C7b" secondAttribute="trailing" constant="15" id="5SY-GO-uwF"/>
                                             <constraint firstItem="17i-mB-C7b" firstAttribute="leading" secondItem="OTr-02-0W0" secondAttribute="leading" constant="15" id="H3e-n9-h9G"/>
@@ -104,11 +104,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="X6k-VL-5ps"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GLj-6i-JoW"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstItem="EP7-FS-goB" firstAttribute="top" secondItem="dQA-PY-cf0" secondAttribute="top" id="0KH-JY-abA"/>
                                             <constraint firstItem="EP7-FS-goB" firstAttribute="leading" secondItem="dQA-PY-cf0" secondAttribute="leading" constant="25" id="KuH-Fe-BMJ"/>
@@ -128,11 +128,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="DV9-hz-U68"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q8I-Al-Lek"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstItem="MGF-P9-kNM" firstAttribute="top" secondItem="Niv-y7-pXZ" secondAttribute="top" id="3Ff-aW-P0j"/>
                                             <constraint firstAttribute="trailing" secondItem="MGF-P9-kNM" secondAttribute="trailing" constant="30" id="Jrk-RH-gPQ"/>
@@ -152,11 +152,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="vdF-V8-5Op"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TxL-sZ-Bcd"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstAttribute="bottom" secondItem="tAp-m4-27O" secondAttribute="bottom" id="CbZ-UM-nmf"/>
                                             <constraint firstAttribute="trailing" secondItem="tAp-m4-27O" secondAttribute="trailing" constant="35" id="EqS-EC-VHO"/>
@@ -176,11 +176,11 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchDown" id="MiI-X3-MGG"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dyv-tB-vmI"/>
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstAttribute="bottom" secondItem="9rx-6i-ssp" secondAttribute="bottom" id="G6P-9j-pBt"/>
                                             <constraint firstAttribute="trailing" secondItem="9rx-6i-ssp" secondAttribute="trailing" constant="40" id="TlA-xg-sMu"/>
@@ -189,10 +189,11 @@
                                         </constraints>
                                     </view>
                                 </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="HLG-TK-TT6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="3Jf-FR-vOM"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="HLG-TK-TT6" secondAttribute="trailing" id="Ngx-0k-yTe"/>
@@ -200,6 +201,15 @@
                             <constraint firstItem="HLG-TK-TT6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="bLl-xl-0d4"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outletCollection property="xyloKeys" destination="DFM-uT-A7s" collectionClass="NSMutableArray" id="G27-Oc-Xa0"/>
+                        <outletCollection property="xyloKeys" destination="rHC-RX-B1m" collectionClass="NSMutableArray" id="dII-u7-Hbr"/>
+                        <outletCollection property="xyloKeys" destination="17i-mB-C7b" collectionClass="NSMutableArray" id="wvO-mk-Lju"/>
+                        <outletCollection property="xyloKeys" destination="EP7-FS-goB" collectionClass="NSMutableArray" id="PpC-k2-4oy"/>
+                        <outletCollection property="xyloKeys" destination="MGF-P9-kNM" collectionClass="NSMutableArray" id="xwo-Zr-49F"/>
+                        <outletCollection property="xyloKeys" destination="tAp-m4-27O" collectionClass="NSMutableArray" id="elZ-Wu-F74"/>
+                        <outletCollection property="xyloKeys" destination="9rx-6i-ssp" collectionClass="NSMutableArray" id="V6k-CE-gTz"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -207,9 +217,6 @@
         </scene>
     </scenes>
     <resources>
-        <systemColor name="systemBackgroundColor">
-            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
         <systemColor name="systemBlueColor">
             <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
